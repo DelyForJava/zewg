@@ -1,0 +1,6 @@
+# ignore files
+zewg.*
+# ignore directories
+Library
+.vs
+Temp
