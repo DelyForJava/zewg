@@ -15,7 +15,6 @@ public class AppFacade : Facade
         public const string SIGNUP_SUCCESSFUL = "signupSuccessful";
         public const string SIGNUP_FAIL = "signupFail";
 
-
         public new static IFacade Instance
         {
                 get
